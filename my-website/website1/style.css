@@ -1,0 +1,19 @@
+body {
+ 	background-color: lightblue;
+}
+
+h2 {
+	font-family: courier;
+	text-align: center;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+.sanjai {
+  font-family: verdana;
+  font-size: 20px;
+  text-align: center;
+}
